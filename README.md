@@ -1,7 +1,7 @@
 # SGPA_CALCULATOR
 ## Screenshots
 
-![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/SGPA_CALCULATOR/main/IMAGE/SGPA%20CALCULATOR.jpg)
+![bmi (820 x 360 px)](https://raw.githubusercontent.com/nibinpsreenivas/SGPA-CALUCLATOR/master/IMAGE/SGPA%20CALCULATOR.jpg)
 
 ## Setup
 
